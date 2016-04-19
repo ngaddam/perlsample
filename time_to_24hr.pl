@@ -13,6 +13,13 @@ A single string containing a time in 1212-hour clock format (i.e.: hh:mm:ssAMhh:
 Output Format
 
 Convert and print the given time in 2424-hour format, where 00≤hh≤2300≤hh≤23.
+Sample Input
+
+07:05:45PM
+Sample Output
+
+19:05:45
+
 =cut
 
 $time = <STDIN>;
